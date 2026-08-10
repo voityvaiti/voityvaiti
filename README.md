@@ -6,7 +6,7 @@ Developer of Web applications on the Java Backend technology stack.
 
 ## 🔃 Connect with me:
 <p align="left">
-<a href="[https://www.linkedin.com/in/pavlo-rymarovych-910883258/](https://www.linkedin.com/in/rymarovych/)" target="blank"><img align="center" src="./linkedin-icon.svg" height="40" width="40" /></a>
+<a href="https://www.linkedin.com/in/rymarovych/" target="blank"><img align="center" src="./linkedin-icon.svg" height="40" width="40" /></a>
 <img width="2" />
 <a href="https://t.me/rive_ll" target="blank"><img align="center" src="./tg-icon.svg" height="40" width="40" /></a>
 </p>
